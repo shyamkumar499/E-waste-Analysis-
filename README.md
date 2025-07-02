@@ -1,5 +1,5 @@
 # E-waste-Analysis-
-An Exploratory Analysis of E-waste different across countries.
+An Exploratory Analysis of E-waste data generate different across countries.
 The Project Report and code documentation is attached in this google drive.
 
 
